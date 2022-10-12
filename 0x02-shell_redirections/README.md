@@ -7,3 +7,4 @@ prints the first 10 lines
 displays third line of the file iacta
 a script that writes into the file ls_cwd_content
 duplicates last line
+find and deletes files with .js
