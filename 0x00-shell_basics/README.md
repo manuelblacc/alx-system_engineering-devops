@@ -12,3 +12,4 @@ a script that lists all files (even ones with names beginning with a period char
 symbolic link
 copy html
  a script that moves all files beginning with an uppercase letter to the directory 
+a script that deletes all files in the current working directory that end with the character ~
