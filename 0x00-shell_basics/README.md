@@ -15,3 +15,4 @@ copy html
 a script that deletes all files in the current working directory that end with the character ~
 welcome to school
 sorting
+magic file
