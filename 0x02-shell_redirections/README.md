@@ -17,3 +17,4 @@ Display all the lines in the file /etc/passwd that do not contain the pattern â€
 a script that removes all letters c and C from input
 a script that displays all users and their home directories, sorted by users
 a script that counts the number of directories and sub-directories in the current directory.
+No more javascript
